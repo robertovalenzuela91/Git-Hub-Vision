@@ -12,7 +12,6 @@ Instalación
 Leer el archivo INSTALL para las instrucciones de instalación
 
 ======================================================================================================================================
-
 Compatibilidad
 
 El sistema ha sido testeado en las siguientes plataformas
@@ -35,7 +34,6 @@ Licencia
 
 El proyecto puede ser modificado, y utilizado para propios proyectos, mencionando
 las referencias a este proyecto.
-
 
 Más Información
 ===========================================================================================================================================================
